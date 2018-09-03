@@ -1,3 +1,5 @@
 Github basics
 checking my Github Skills
-First time i am learning this Github
+
+
+i am learning Github(http//www.lynda.com)
